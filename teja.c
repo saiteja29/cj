@@ -5,13 +5,13 @@ int n;
 scanf("%d",&n);
 if(n%2==0)
 {
-printf("even number");
+printf("Even");
 }
 else if(n%2!=0)
 {
-printf("odd number");
+printf("Odd");
 }
 else
-printf("invalid number");
+printf("invalid");
 }
 
