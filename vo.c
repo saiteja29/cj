@@ -6,12 +6,12 @@ char x;
 scanf("%c",&x);
 if(x==c)
 {
-printf("vowel");
+printf("Vowel");
 }
 else if(x=='$')
 {
 printf("invalid");
 }
 else
-printf("consonant");
+printf("Consonant");
 }
